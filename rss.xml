@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ericgruber.net]]></title>
         <description><![CDATA[ericgruber.net]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ericgruber.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 20:26:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 17:54:38 GMT</lastBuildDate>
+        <atom:link href="http://ericgruber.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8dc2219-89ef-415d-a1d8-eceacafb2e02.jpg">]]></description>
+            <link>http://ericgruber.net/e21496a8-cc07-4733-9e5e-fb5c129038d5/index.html</link>
+            <guid isPermaLink="false">e21496a8-cc07-4733-9e5e-fb5c129038d5</guid>
+            <pubDate>Mon, 07 Mar 2016 17:54:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello... this is a test</p>]]></description>
-            <link>undefined10321f61-2086-4cbd-84ce-66590b9f7bbe/index.html</link>
+            <link>http://ericgruber.net/10321f61-2086-4cbd-84ce-66590b9f7bbe/index.html</link>
             <guid isPermaLink="false">10321f61-2086-4cbd-84ce-66590b9f7bbe</guid>
             <pubDate>Thu, 03 Mar 2016 20:26:23 GMT</pubDate>
         </item>
