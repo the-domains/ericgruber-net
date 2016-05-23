@@ -4,14 +4,14 @@
         <description><![CDATA[ericgruber.net]]></description>
         <link>http://ericgruber.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 20:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 20:46:11 GMT</lastBuildDate>
         <atom:link href="http://ericgruber.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test #2]]></title>
             <description><![CDATA[<article><h1>Test #2</h1><p>Still a test...?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/178c249aa5723b17708d30b33a785867708b054a.jpg"></article>]]></description>
             <link>http://ericgruber.net/10321f61-2086-4cbd-84ce-66590b9f7bbe/index.html</link>
             <guid isPermaLink="false">10321f61-2086-4cbd-84ce-66590b9f7bbe</guid>
-            <pubDate>Mon, 23 May 2016 20:42:31 GMT</pubDate>
+            <pubDate>Mon, 23 May 2016 20:46:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
